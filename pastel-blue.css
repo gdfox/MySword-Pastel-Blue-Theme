@@ -1,10 +1,10 @@
 /* https://github.com/gdfox/MySword-Pastel-Blue-Theme */
 
-body{ color:#000000;background-color:#ffffff;padding:14 1 0 2;line-height:150;}
+body{color:#000000;background-color:#ffffff;padding:14 1 0 2;line-height:150%;}
 a {color:#4F77AA; text-decoration:none;}
-h1, h1 a{ font-style:Bold;color:#4F77AA;font-size:18px; text-transform:uppercase; font-variant:small-caps; letter-spacing:3; border-bottom:1px dotted;padding:0 0 14 0;margin:15 0 10 0;text-align:center}
-h1 a i{text-transform:lowercase; font-variant:normal}
+h1, h1 a{font-style:Bold; color:#4F77AA; font-size:18px; text-transform:uppercase; font-variant:small-caps; letter-spacing:3; border-bottom:1px dotted;padding:0 0 14 0;margin:15 0 10 0;text-align:center}
 h1 a{text-decoration:none;border:0px}
+h1 a i{text-transform:lowercase; font-variant:normal}
 h2{color:#78AED3}
 h3{color:#AAC9DD}
 h4{color:#C1E3ED}
@@ -13,7 +13,7 @@ h6{color:#505}
 strong.searchkey{background-color:#D2E1E6}/*Search Highlight*/
 .searchlink{color:#4F77AA;text-transform:uppercase;letter-spacing:0.04em;}
 .verno{color:#000;text-decoration:none;font-size:85%;vertical-align:super;line-height:5px; border:0px;padding:0;}
-.strong{color:#03f;border:0px;padding:0;font-size:85%;line-height:150;font-family:Verlag Bold; letter-spacing:0.04em;}
+.strong{color:#03f;border:0px;padding:0;font-size:85%;line-height:150%;font-family:Verlag Bold; letter-spacing:0.04em;}
 .morph{color:#073}
 .ref{color:#4F77AA;font-size:85%;vertical-align:super;}
 .xref{color:#4F77AA;letter-spacing:0.04em;font-size:75%;vertical-align:super;text-decoration:none;}
@@ -41,7 +41,7 @@ strong.searchkey{background-color:#D2E1E6}/*Search Highlight*/
 .purple{color:#800080;}
 .pink{color:#ff1493;}
 .gray{color:#808080;}
-.tag{color:#D2E1E6;background-color:#4F77AA;border-color:##4F77AA;}
+.tag{color:#D2E1E6;background-color:#AAC9DD;border-color:#4F77AA;}
 .tag a{color:#D2E1E6;}
 a img.icon{border-color:#D2E1E6;}
 .parallel,.parallel td,.parallel th{border-style:solid;border-width:1px;border-color:#C1E3ED}
@@ -50,8 +50,9 @@ a img.icon{border-color:#D2E1E6;}
 .eng{color:#808080;}
 .splitactive{color:#000;background-color:#78AED3}.splitinactive{color:#4F77AA;background-color:#AAC9DD}
 .ot{}#content{padding:1px 8px}body{margin:0}.hebrew{color:#000000;}
+.ot{}.comframe{color:#000000;background-color:#AAC9DD;border-color:#4F77AA}
 .greek{color:#000000;}
-.comframe{color:#000000;background-color:#ffffff;border-color:#000000;}
-.comframe a{color:#1e00ff;}
+.comframe{color:#000000;background-color:#AAC9DD;border-color:#4F77AA}
+.comframe a{color:#66b;}
 .wjc{color:#900}
 .add{font-style:italic;}
